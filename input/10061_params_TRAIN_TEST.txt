@@ -4,7 +4,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % --------------------- input/output paths
-inpath = 'Y:\STUDY PHD\TERM 4 - PHD\BIO_EM\Data\EMPIAR-10061\samples\data';
+inpath = 'W:\DATA2\CRYO\EMPIAR-10061\samples\data';
 outpath = 'output';
 groundtruth_path = ''; 
 
